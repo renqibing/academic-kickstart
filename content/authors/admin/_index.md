@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate
+role: Undergraduate of Shanghai Jiao Tong University
 
 # Organizations/Affiliations
 organizations:
-- name: Shanghai Jiao Tong University
-- url: 'devzhk@sjtu.edu.cn'
+- name: devzhk@sjtu.edu.cn
+  url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
