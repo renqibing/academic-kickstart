@@ -10,7 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate of \n Shanghai Jiao Tong University
+role: Undergraduate of 
+  Shanghai Jiao Tong University
 
 # Organizations/Affiliations
 organizations:
