@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate of SJTU
+role: Undergraduate
 
 # Organizations/Affiliations
 organizations:
